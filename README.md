@@ -1,4 +1,3 @@
-# InstagramScraper
 Change the line 123 or line 130 of the middleware of the rotating proxy dependency
 
 
